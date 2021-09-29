@@ -1,2 +1,3 @@
-# presentations-fall21
-Presentation slide for the Fall 2021 semester
+# Presentations Fall 2021
+
+The presentation slides for ACM FSC meetings and events.
